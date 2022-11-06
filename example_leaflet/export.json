@@ -1,0 +1,512 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.59 e21c39fe",
+  "osm3s": {
+    "timestamp_osm_base": "2022-11-06T16:10:55Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1306455631,
+      "lat": 52.5545215,
+      "lon": 13.4077309,
+      "tags": {
+        "animal": "wellness",
+        "name": "Hundesalon Amling",
+        "shop": "pet_grooming",
+        "website": "http://www.hundesalon-amling.de"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1910018124,
+      "lat": 52.527068,
+      "lon": 13.5400654,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "14",
+        "addr:postcode": "12681",
+        "addr:street": "Helene-Weigel-Platz",
+        "addr:suburb": "Marzahn",
+        "contact:email": "info@hundesalon-dogscare.de",
+        "contact:mobile": "+49 174 3446972",
+        "name": "Hundesalon Dog's Care",
+        "shop": "pet_grooming",
+        "website": "https://www.hundesalon-dogscare.de",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2107833604,
+      "lat": 52.4461648,
+      "lon": 13.2923182,
+      "tags": {
+        "name": "Hundesalon Dahlem",
+        "pet": "dog",
+        "shop": "pet_grooming"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2678470232,
+      "lat": 52.358986,
+      "lon": 13.1001806,
+      "tags": {
+        "addr:city": "Nuthetal",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "14558",
+        "addr:street": "Arthur-Scheunert-Allee",
+        "addr:suburb": "Rehbrücke",
+        "contact:instagram": "https://www.instagram.com/reitsport_equipassion/",
+        "contact:phone": "+49 33200 515 181",
+        "contact:website": "https://equipassion.de/",
+        "name": "Equipassion",
+        "opening_hours": "Mo-Fr 11:00-19:00; Sa 10:00-16:00",
+        "shop": "pet_grooming",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2837044352,
+      "lat": 52.523883,
+      "lon": 13.3531502,
+      "tags": {
+        "name": "Hundeparadies",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-14:00",
+        "shop": "pet_grooming"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5260309921,
+      "lat": 52.5488914,
+      "lon": 13.4085378,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "65",
+        "addr:postcode": "10437",
+        "addr:street": "Kopenhagener Straße",
+        "addr:suburb": "Prenzlauer Berg",
+        "check_date:opening_hours": "2021-04-11",
+        "contact:phone": "+49 30 26038147",
+        "name": "Hundesalon Nur Mut",
+        "opening_hours": "Mo-Th 10:00-14:00; Fr 10:00-16:00",
+        "pet": "dog",
+        "shop": "pet_grooming",
+        "website": "http://www.hundesalon-koppe.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5262474521,
+      "lat": 52.5627539,
+      "lon": 13.3531461,
+      "tags": {
+        "addr:housenumber": "67",
+        "addr:street": "Aroser Allee",
+        "name": "Gitti's Hundesalon",
+        "opening_hours": "Mo 08:00-12:00; Tu-Th 08:00-14:00",
+        "shop": "pet_grooming",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6280828020,
+      "lat": 52.386839,
+      "lon": 13.1031218,
+      "tags": {
+        "access": "customers",
+        "addr:city": "Potsdam",
+        "addr:country": "DE",
+        "addr:housenumber": "97",
+        "addr:postcode": "14482",
+        "addr:street": "Großbeerenstraße",
+        "addr:suburb": "Babelsberg",
+        "door": "hinged",
+        "entrance": "main",
+        "name": "Hundesalon Hoffmann",
+        "opening_hours": "Mo-Th 09:00-18:00",
+        "pet": "dog",
+        "shop": "pet_grooming",
+        "step_count": "1",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6298891314,
+      "lat": 52.5450413,
+      "lon": 13.4990543,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:housenumber": "12F",
+        "addr:postcode": "13055",
+        "addr:street": "Große-Leege-Straße",
+        "description": "Tellington TTouch, Hundetraining, Physiotherapie, Hundebetreuung und mehr in Berlin.",
+        "email": "kontakt@tiere-inbalance.de",
+        "name": "Tiere in Balance",
+        "opening_hours": "09:00-21:00",
+        "operator": "Claudia Bodenhaupt",
+        "phone": "+49 30/9826323",
+        "shop": "pet_grooming",
+        "website": "https://www.tiere-inbalance.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6354806817,
+      "lat": 52.5215795,
+      "lon": 13.334052,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "10555",
+        "addr:street": "Jagowstraße",
+        "addr:suburb": "Moabit",
+        "contact:mobile": "+49 172 3001219",
+        "contact:phone": "+49 30 3968726",
+        "name": "Hundesalon Chéri",
+        "pet": "dog",
+        "shop": "pet_grooming"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6608980995,
+      "lat": 52.5329451,
+      "lon": 13.9135507,
+      "tags": {
+        "addr:city": "Rehfelde",
+        "addr:housenumber": "16",
+        "addr:postcode": "15345",
+        "addr:street": "Blumenweg",
+        "contact:email": "leoranch@hotmail.de",
+        "contact:phone": "+49 33435 151171",
+        "contact:website": "http://www.studio-burgi.de",
+        "name": "Studio Burgi",
+        "operator": "Regina Miethe",
+        "shop": "pet_grooming"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6901737387,
+      "lat": 52.5653749,
+      "lon": 13.1012037,
+      "tags": {
+        "addr:postcode": "14612",
+        "contact:phone": "+49 3322 128345",
+        "contact:website": "https://www.piccolino-hundesalon.de/",
+        "name": "Piccolino Hundesalon",
+        "shop": "pet_grooming"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7038966539,
+      "lat": 52.3885318,
+      "lon": 13.0673055,
+      "tags": {
+        "addr:city": "Potsdam",
+        "addr:country": "DE",
+        "addr:housenumber": "9",
+        "addr:postcode": "14473",
+        "addr:street": "Heinrich-Mann-Allee",
+        "brand:parcel": "DPD",
+        "contact:mobile": "+49 176 313 82720",
+        "contact:website": "http://www.fellfritzen.de/",
+        "name": "Die Fellfritzen",
+        "operator": "Beatrice Thonke",
+        "operator:type": "private",
+        "parcel": "pickup",
+        "pet": "dog;cat",
+        "post_office:type": "post_partner",
+        "shop": "pet_grooming"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7091342199,
+      "lat": 52.6108307,
+      "lon": 12.3465526,
+      "tags": {
+        "addr:city": "Rathenow",
+        "addr:country": "DE",
+        "addr:housenumber": "59",
+        "addr:postcode": "14712",
+        "addr:street": "Goethestraße",
+        "contact:phone": "+49 3385 511180",
+        "name": "Hundesalon Heike Bannasch",
+        "opening_hours": "\"nach Vereinbarung\"",
+        "operator": "Heike Bannasch",
+        "shop": "pet_grooming"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7091437228,
+      "lat": 52.604332,
+      "lon": 12.3140189,
+      "tags": {
+        "addr:city": "Rathenow",
+        "addr:country": "DE",
+        "addr:housenumber": "108",
+        "addr:postcode": "14712",
+        "addr:street": "Genthiner Straße",
+        "contact:email": "kerstin.thiele@hundesalon-rathenow.de",
+        "contact:phone": "+49 3385 496123",
+        "contact:website": "http://hundesalon-rathenow.de/",
+        "name": "Hundesalon Romina",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "operator": "Kerstin Thiele",
+        "shop": "pet_grooming"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7275461814,
+      "lat": 52.5412526,
+      "lon": 13.419392,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "86",
+        "addr:postcode": "10437",
+        "addr:street": "Dunckerstraße",
+        "addr:suburb": "Prenzlauer Berg",
+        "contact:phone": "+49 30 53117928",
+        "contact:website": "https://www.ninasfreunde.de/",
+        "description": "Hundesalon, Tiernahrung und Zubehör",
+        "name": "Ninas Freunde",
+        "opening_hours:signed": "no",
+        "pet": "dog",
+        "shop": "pet_grooming",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7544210932,
+      "lat": 52.4758421,
+      "lon": 13.3246952,
+      "tags": {
+        "name": "Hundesalon Corso",
+        "opening_hours": "\"nach Absprache unter +4915154829297\"",
+        "pet": "dog",
+        "shop": "pet_grooming"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8357555989,
+      "lat": 52.6151559,
+      "lon": 13.3173677,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:housenumber": "17",
+        "addr:postcode": "13467",
+        "addr:street": "Berliner Straße",
+        "email": "iwonahomburg@yahoo.de",
+        "name": "Hunde und Katzenstudio",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "operator": "Iwona Homburg",
+        "phone": "+49 30 4101150",
+        "shop": "pet_grooming",
+        "website": "https://www.hundeschnittstelle-berlin.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8423129511,
+      "lat": 52.4880055,
+      "lon": 13.3372365,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "10825",
+        "addr:street": "Kufsteiner Straße",
+        "addr:suburb": "Schöneberg",
+        "name": "Best Friends Shop",
+        "pet": "dog;cat",
+        "shop": "pet_grooming"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8442495421,
+      "lat": 52.5840466,
+      "lon": 13.3016729,
+      "tags": {
+        "name": "Pfotenrocker Tierphysiotherapie",
+        "shop": "pet_grooming"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8625793643,
+      "lat": 52.4496038,
+      "lon": 13.25269,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:postcode": "14169",
+        "addr:street": "Ladenstraße",
+        "name": "Leylas Hunderepublik",
+        "shop": "pet_grooming"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8762230453,
+      "lat": 52.453261,
+      "lon": 13.5750761,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "12555",
+        "addr:street": "Bahnhofstraße",
+        "addr:suburb": "Köpenick",
+        "contact:website": "https://www.hund-e.de/",
+        "operator": "Black & White Dogs Coiffeur and More",
+        "shop": "pet_grooming"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9024700620,
+      "lat": 52.373021,
+      "lon": 12.5170382,
+      "tags": {
+        "addr:city": "Brandenburg an der Havel",
+        "addr:housenumber": "68",
+        "addr:postcode": "14776",
+        "addr:street": "Eulenbogen",
+        "contact:email": "info@babers-hundesalon.de",
+        "contact:phone": "+49 3381 228532",
+        "contact:website": "http://www.babers-hundesalon.de/",
+        "name": "Babers Hundesalon",
+        "pet": "dog",
+        "shop": "pet_grooming"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9441861438,
+      "lat": 52.551645,
+      "lon": 13.4651933,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "154",
+        "addr:postcode": "13088",
+        "addr:street": "Berliner Allee",
+        "addr:suburb": "Weißensee",
+        "contact:phone": "+493022014891",
+        "name": "Hundesalon Rogalski",
+        "shop": "pet_grooming"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9531153660,
+      "lat": 52.454661,
+      "lon": 13.5166455,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "111",
+        "addr:postcode": "12439",
+        "addr:street": "Schnellerstraße",
+        "addr:suburb": "Niederschöneweide",
+        "description": "Hundeschönheitssalon",
+        "email": "info@schönheitssalon-bunterhund.de",
+        "mobile": "+49 152 320 233 18",
+        "name": "Bunterhund",
+        "opening_hours": "\"Nach telefonischer Vereinbahrung\"",
+        "phone": "+49 30 235 878 19",
+        "shop": "pet_grooming",
+        "website": "http://www.schönheitssalon-bunterhund.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9632071019,
+      "lat": 52.4580298,
+      "lon": 13.3311071,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "12",
+        "addr:postcode": "12169",
+        "addr:street": "Bergstraße",
+        "addr:suburb": "Steglitz",
+        "description": "Physiotherapie für Hunde",
+        "name": "Pfötchenfit",
+        "operator": "Nicole Stübner",
+        "pet": "dog",
+        "shop": "pet_grooming",
+        "website": "http://www.pfoetchenfit.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9733504165,
+      "lat": 52.5144959,
+      "lon": 13.2876729,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "36",
+        "addr:postcode": "14059",
+        "addr:street": "Sophie-Charlotten-Straße",
+        "addr:suburb": "Charlottenburg",
+        "contact:website": "https://www.snobbydogs.de/",
+        "name": "Evelyn's Snobby Dogs",
+        "pet": "dog",
+        "shop": "pet_grooming"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9887977833,
+      "lat": 52.4892047,
+      "lon": 13.3177074,
+      "tags": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "14",
+        "addr:postcode": "10713",
+        "addr:street": "Wegenerstraße",
+        "addr:suburb": "Wilmersdorf",
+        "name": "Hugo Hundesalon",
+        "shop": "pet_grooming"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9981200230,
+      "lat": 52.3934471,
+      "lon": 13.0409378,
+      "tags": {
+        "addr:housenumber": "3 A",
+        "addr:street": "Auf dem Kiewitt",
+        "check_date": "2022-08-27",
+        "email": "kontakt@hundesalon-potsdam.de",
+        "name": "Scher Point",
+        "opening_hours": "\"nach Vereinbarung\"",
+        "phone": "+49 331 58505508",
+        "shop": "pet_grooming",
+        "website": "https://www.hundesalon-potsdam.de/"
+      }
+    }
+  ]
+}
